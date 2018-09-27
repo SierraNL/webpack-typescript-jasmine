@@ -9,7 +9,7 @@
     "start": "node dev-build"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.3",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
