@@ -1,5 +1,4 @@
-var webpack = require('webpack');
-var path = require('path');
+const path = require('path');
 
 module.exports = {
   devtool: '#inline-source-map',
@@ -11,18 +10,11 @@ module.exports = {
 
   output: {
     filename: 'bundle.js',
-    path: __dirname + '/app'
+    path: path.resolve(__dirname, 'app'),
   },
 
-  plugins: [
-    new webpack.NoEmitOnErrorsPlugin(),
-    new webpack.LoaderOptionsPlugin({
-      debug: true
-    })
-  ],
-
   resolve: {
-    extensions: ['.ts', '.js', '.scss']
+    extensions: ['.ts', '.tsx', '.js', '.scss']
   },
 
   module: {

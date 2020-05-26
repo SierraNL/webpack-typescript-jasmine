@@ -1,6 +1,3 @@
-
-/// <reference path="../typings/index.d.ts" />
-
 import { Index } from '../src/index';
 
 describe("multiply", function () {

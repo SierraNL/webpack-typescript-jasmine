@@ -12,3 +12,9 @@ The key to this was this comment:
 https://github.com/webpack-contrib/karma-webpack/issues/188#issuecomment-268538430
 
 That is why karma couldn't see the *.ts files 
+
+To run the app with node:
+```npm start
+
+To run the unittests using karma -> jasmine
+```npm test

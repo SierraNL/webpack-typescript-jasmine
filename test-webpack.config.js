@@ -1,4 +1,3 @@
-var webpack = require('webpack');
 var path = require('path');
 
 module.exports = {
@@ -9,15 +8,8 @@ module.exports = {
   ],
 
   output: {
-    filename: 'dist/bundle.js'
+    filename: 'app/bundle.js'
   },
-
-  plugins: [
-    new webpack.NoEmitOnErrorsPlugin(),
-    new webpack.LoaderOptionsPlugin({
-      debug: true
-    })
-  ],
 
   resolve: {
     extensions: ['.ts', '.js', '.tsx']
