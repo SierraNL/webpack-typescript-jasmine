@@ -18,3 +18,5 @@ To run the app with node:
 
 To run the unittests using karma -> jasmine
 `npm test`
+
+[![Build status](https://ci.appveyor.com/api/projects/status/a5bqewoa82ib7xli/branch/master?svg=true)](https://ci.appveyor.com/project/SierraNL/webpack-typescript-jasmine/branch/master)
