@@ -1,6 +1,7 @@
 // Karma configuration
 // Generated on Tue Mar 07 2017 14:21:02 GMT+0100 (W. Europe Standard Time)
 var webpackConfig = require('./test-webpack.config');
+process.env.CHROME_BIN = require('puppeteer').executablePath()
 
 module.exports = function (config) {
     config.set({
