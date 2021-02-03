@@ -39,6 +39,6 @@
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "mem": "8.0.0",
-    "puppeteer": "5.5.0"
+    "puppeteer": "6.0.0"
   }
 }
