@@ -22,7 +22,7 @@
     "@types/lodash": "^4.14.168",
     "browser-sync": "^2.26.14",
     "bs-pretty-message": "^1.0.8",
-    "css-loader": "^5.2.1",
+    "css-loader": "^5.2.4",
     "jasmine": "^3.7.0",
     "karma": "^6.3.2",
     "karma-chrome-launcher": "^3.1.0",
