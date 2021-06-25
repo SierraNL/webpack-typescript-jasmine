@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/jasmine": "^3.7.7",
     "@types/lodash": "^4.14.170",
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.1",
     "bs-pretty-message": "^1.0.8",
     "css-loader": "^5.2.6",
     "jasmine": "^3.7.0",
