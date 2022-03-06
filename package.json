@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/jasmine": "^3.10.3",
-    "@types/lodash": "^4.14.178",
+    "@types/lodash": "^4.14.179",
     "browser-sync": "^2.27.7",
     "axios": ">=0.26.0",
     "bs-pretty-message": "^1.0.8",
