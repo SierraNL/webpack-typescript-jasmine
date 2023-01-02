@@ -18,7 +18,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@types/jasmine": "^4.3.0",
+    "@types/jasmine": "^4.3.1",
     "@types/lodash": "^4.14.191",
     "browser-sync": "^2.27.11",
     "axios": ">=1.2.2",
