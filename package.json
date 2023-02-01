@@ -40,7 +40,7 @@
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
     "mem": "9.0.2",
-    "puppeteer": "19.4.1",
+    "puppeteer": "19.6.2",
     "async": ">=2.6.4"
   }
 }
