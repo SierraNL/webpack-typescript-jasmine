@@ -26,7 +26,7 @@
     "css-loader": "^6.7.3",
     "jasmine": "^4.6.0",
     "karma": "^6.4.1",
-    "karma-chrome-launcher": "^3.1.1",
+    "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
     "karma-webpack": "^5.0.0",
     "node-sass": "^8.0.0",
