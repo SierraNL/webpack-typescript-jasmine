@@ -35,7 +35,7 @@
     "ts-loader": "^9.4.3",
     "typescript": "^5.0.4",
     "url-loader": "^4.1.1",
-    "webpack": "^5.81.0",
+    "webpack": "^5.85.0",
     "webpack-dev-middleware": "^6.0.2",
     "jquery": "^3.7.0",
     "popper.js": "^1.16.1",
