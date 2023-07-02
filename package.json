@@ -24,7 +24,7 @@
     "axios": ">=1.4.0",
     "bs-pretty-message": "^1.0.8",
     "css-loader": "^6.8.1",
-    "jasmine": "^5.0.0",
+    "jasmine": "^5.0.2",
     "karma": "^6.4.2",
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
