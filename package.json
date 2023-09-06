@@ -21,7 +21,7 @@
     "@types/jasmine": "^4.3.5",
     "@types/lodash": "^4.14.196",
     "browser-sync": "^2.29.3",
-    "axios": ">=1.4.0",
+    "axios": ">=1.5.0",
     "bs-pretty-message": "^1.0.8",
     "css-loader": "^6.8.1",
     "jasmine": "^5.1.0",
