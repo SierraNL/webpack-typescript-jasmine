@@ -37,7 +37,7 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.88.1",
     "webpack-dev-middleware": "^6.1.1",
-    "jquery": "^3.7.0",
+    "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
     "mem": "9.0.2",
     "puppeteer": "19.11.1",
