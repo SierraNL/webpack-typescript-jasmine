@@ -18,7 +18,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@types/jasmine": "^4.3.6",
+    "@types/jasmine": "^5.1.4",
     "@types/lodash": "^4.17.0",
     "browser-sync": "^3.0.2",
     "css-loader": "^6.8.1",
