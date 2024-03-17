@@ -20,27 +20,22 @@
   "devDependencies": {
     "@types/jasmine": "^4.3.6",
     "@types/lodash": "^4.17.0",
-    "browser-sync": "^2.29.3",
-    "axios": ">=1.6.7",
-    "bs-pretty-message": "^1.0.8",
+    "browser-sync": "^3.0.2",
     "css-loader": "^6.8.1",
     "jasmine": "^5.1.0",
+    "jquery": "^3.7.1",
     "karma": "^6.4.2",
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
     "karma-webpack": "^5.0.0",
     "node-sass": "^9.0.0",
+    "puppeteer": "22.4.0",
     "sass-loader": "^14.1.1",
     "style-loader": "^3.3.3",
     "ts-loader": "^9.4.4",
     "typescript": "^5.4.2",
     "url-loader": "^4.1.1",
     "webpack": "^5.90.3",
-    "webpack-dev-middleware": "^6.1.1",
-    "jquery": "^3.7.1",
-    "popper.js": "^1.16.1",
-    "mem": "9.0.2",
-    "puppeteer": "22.4.0",
-    "async": ">=2.6.4"
+    "webpack-dev-middleware": "^6.1.1"
   }
 }
