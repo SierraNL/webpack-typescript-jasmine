@@ -27,7 +27,7 @@
     "karma": "^6.4.2",
     "karma-chrome-launcher": "^3.2.0",
     "karma-jasmine": "^5.1.0",
-    "karma-webpack": "^5.0.0",
+    "karma-webpack": "^5.0.1",
     "node-sass": "^9.0.0",
     "puppeteer": "22.6.1",
     "sass-loader": "^14.1.1",
