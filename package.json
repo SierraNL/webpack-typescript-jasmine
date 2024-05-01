@@ -36,6 +36,6 @@
     "typescript": "^5.4.5",
     "url-loader": "^4.1.1",
     "webpack": "^5.91.0",
-    "webpack-dev-middleware": "^7.2.0"
+    "webpack-dev-middleware": "^7.2.1"
   }
 }
