@@ -30,7 +30,7 @@
     "karma-webpack": "^5.0.1",
     "node-sass": "^9.0.0",
     "puppeteer": "22.15.0",
-    "sass-loader": "^14.2.1",
+    "sass-loader": "^16.0.0",
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.5.4",
