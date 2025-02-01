@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/jasmine": "^5.1.5",
-    "@types/lodash": "^4.17.13",
+    "@types/lodash": "^4.17.15",
     "browser-sync": "^3.0.3",
     "css-loader": "^7.1.2",
     "jasmine": "^5.5.0",
