@@ -29,7 +29,7 @@
     "karma-jasmine": "^5.1.0",
     "karma-webpack": "^5.0.1",
     "node-sass": "^9.0.0",
-    "puppeteer": "24.3.0",
+    "puppeteer": "24.4.0",
     "sass-loader": "^16.0.5",
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.2",
