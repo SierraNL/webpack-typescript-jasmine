@@ -18,11 +18,11 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@types/jasmine": "^5.1.7",
+    "@types/jasmine": "^5.1.8",
     "@types/lodash": "^4.17.16",
     "browser-sync": "^3.0.4",
     "css-loader": "^7.1.2",
-    "jasmine": "^5.7.0",
+    "jasmine": "^5.7.1",
     "jquery": "^3.7.1",
     "karma": "^6.4.4",
     "karma-chrome-launcher": "^3.2.0",
