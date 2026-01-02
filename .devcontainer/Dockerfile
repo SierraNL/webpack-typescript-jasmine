@@ -11,4 +11,4 @@ RUN apt-get update && apt-get install gnupg wget -y && \
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
 
 # fix warning when useing npm
-RUN npm install -g npm@10.5.0
+RUN npm install -g npm@11.7.0
