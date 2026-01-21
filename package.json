@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/jasmine": "^5.1.13",
