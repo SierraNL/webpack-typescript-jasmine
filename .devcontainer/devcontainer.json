@@ -1,3 +1,17 @@
-{ 
-    "build": { "dockerfile": "Dockerfile" }
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode",
+                "ms-vscode.vscode-typescript-next",
+                "christian-kohler.npm-intellisense",
+                "eg2.vscode-npm-script",
+                "anthropic.claude-code",
+                "github.copilot",
+                "github.copilot-chat"
+            ]
+        }
+    }
 }

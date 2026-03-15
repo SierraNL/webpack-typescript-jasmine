@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    devtool: '#inline-source-map',
+    devtool: 'inline-source-map',
     mode: 'development',
 
     entry: [
@@ -12,6 +12,11 @@ module.exports = {
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'app'),
+    },
+
+    devServer: {
+        static: './app',
+        open: false,
     },
 
     resolve: {
@@ -26,10 +31,8 @@ module.exports = {
                 }]
             },
             {
-                test: /\.woff($|\?)|\.woff2($|\?)|\.ttf($|\?)|\.eot($|\?)|\.svg($|\?)/,
-                use: [{
-                    loader: 'url-loader'
-                }]
+                test: /\.(woff2?|ttf|eot|svg)(\?.*)?$/,
+                type: 'asset/inline',
             },
             {
                 test: /\.scss$/,
