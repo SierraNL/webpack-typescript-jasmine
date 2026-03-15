@@ -2,7 +2,7 @@
   "name": "webpack.typescript.jasmine",
   "version": "1.2.0",
   "description": "Webpack, TypeScript & Jasmine",
-  "main": "dev-build.js",
+  "main": "dev-webpack.config.js",
   "author": "Leon Grave",
   "license": "MIT",
   "repository": {
@@ -10,32 +10,25 @@
     "url": "https://github.com/SierraNL/webpack-typescript-jasmine"
   },
   "scripts": {
-    "start": "node dev-build",
-    "test": "node ./node_modules/karma/bin/karma start"
+    "start": "webpack serve --config dev-webpack.config.js",
+    "test": "vitest run"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
     "lodash": "^4.17.23"
   },
   "devDependencies": {
-    "@types/jasmine": "^6.0.0",
     "@types/lodash": "^4.17.24",
-    "browser-sync": "^3.0.4",
     "css-loader": "^7.1.4",
-    "jasmine": "^6.1.0",
-    "jquery": "^4.0.0",
-    "karma": "^6.4.4",
-    "karma-chrome-launcher": "^3.2.0",
-    "karma-jasmine": "^5.1.0",
-    "karma-webpack": "^5.0.1",
-    "node-sass": "^9.0.0",
-    "puppeteer": "24.37.5",
+    "jsdom": "^29.0.0",
+    "sass": "^1.98.0",
     "sass-loader": "^16.0.7",
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.4",
     "typescript": "^5.9.3",
-    "url-loader": "^4.1.1",
+    "vitest": "^4.1.0",
     "webpack": "^5.105.3",
-    "webpack-dev-middleware": "^7.4.5"
+    "webpack-cli": "^7.0.0",
+    "webpack-dev-server": "^5.2.3"
   }
 }

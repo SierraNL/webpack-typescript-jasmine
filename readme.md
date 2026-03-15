@@ -1,4 +1,11 @@
-# Combining Typescript, Webpack, Jasmine
+# Updated situation
+### Combining Typescript, Webpack and Vitest
+
+I updated this repo to a more modern situation. Not using abandoned packages like Karma anymore.
+The main goal, a minimal setup, is still there.
+
+# Original content
+### Combining Typescript, Webpack, Jasmine
 
 After reading the following question on stackoverflow.com:
 http://stackoverflow.com/questions/42585255/how-to-run-typescript-not-angularjs-unit-tests-with-jasmine-and-webpack
